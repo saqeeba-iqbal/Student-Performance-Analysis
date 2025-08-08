@@ -37,7 +37,7 @@ Students with test preparation scored higher in all subjects.
 
 Gender differences observed in subject-wise averages.
 
-##Visualizations
+## Visualizations
 Includes bar plots, scatter plots, and histograms to present insights clearly.
 
 ## Ouput
